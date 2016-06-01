@@ -1,0 +1,40 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/krolaw/dhcp4",
+			"repository": "https://github.com/krolaw/dhcp4",
+			"vcs": "git",
+			"revision": "ffbbb16f447b3e05b80e8ddecbb8ada36e2ae006",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/net/bpf",
+			"repository": "https://go.googlesource.com/net",
+			"vcs": "git",
+			"revision": "c4c3ea71919de159c9e246d7be66deb7f0a39a58",
+			"branch": "master",
+			"path": "/bpf",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/net/internal/iana",
+			"repository": "https://go.googlesource.com/net",
+			"vcs": "git",
+			"revision": "c4c3ea71919de159c9e246d7be66deb7f0a39a58",
+			"branch": "master",
+			"path": "/internal/iana",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/net/ipv4",
+			"repository": "https://go.googlesource.com/net",
+			"vcs": "git",
+			"revision": "c4c3ea71919de159c9e246d7be66deb7f0a39a58",
+			"branch": "master",
+			"path": "/ipv4",
+			"notests": true
+		}
+	]
+}
